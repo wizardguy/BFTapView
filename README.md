@@ -1,1 +1,1 @@
-![image](https://github.com/wizardguy/screenshots/TapAniamtion.gif)
+![image](https://github.com/wizardguy/screenshots/raw/master/TapAniamtion.gif)
